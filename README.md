@@ -16,6 +16,16 @@ Instalar dependencias:
 pip install -r requirements.txt
 ```
 
+Activar entorno virtual
+Windows:
+```
+.\env\Scripts\activate
+```
+Linux:
+```
+./env/bin/activate
+```
+
 Correr el programa:
 ```
 py index.py

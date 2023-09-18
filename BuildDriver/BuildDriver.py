@@ -6,6 +6,7 @@ class BuidDriver:
     def __init__(self) -> None:
         print("Init selenium...")
         self._driver = webdriver.Chrome()
+        self._driver.maximize_window()
         print("Opened selenium...")
     def getDriver(self):
         return self._driver
