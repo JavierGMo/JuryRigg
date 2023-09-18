@@ -2,6 +2,8 @@
 
 ## Pasos para usar este proyecto
 
+Crear su .env
+
 Agregar las variables de entorno en su .env
 
 Crear un entorno virtual:
