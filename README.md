@@ -23,7 +23,7 @@ Windows:
 ```
 Linux:
 ```
-./env/bin/activate
+. ./env/bin/activate
 ```
 
 Correr el programa:
