@@ -10,12 +10,6 @@ Crear un entorno virtual:
 ```
 py -m venv <name_your_env>
 ```
-
-Instalar dependencias:
-```
-pip install -r requirements.txt
-```
-
 Activar entorno virtual
 Windows:
 ```
@@ -25,6 +19,13 @@ Linux:
 ```
 . ./env/bin/activate
 ```
+Nota: Para instalar las dependencias se necesita activar el entorno virtual de python que previamente se creo
+
+Instalar dependencias:
+```
+pip install -r requirements.txt
+```
+
 
 Correr el programa:
 ```
